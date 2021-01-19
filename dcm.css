@@ -9,24 +9,22 @@ body {
        background-image: url(Mapa\ GB.jpg);
        background-repeat: no-repeat;
        background-size: 100%;
-       color: rgb(255, 0, 0);
+       color: rgb(15, 14, 14);
        overflow-x: hidden;
     
       
 
        flex-wrap: wrap;
        flex-direction: column;
+       
 
 
+      
 }
 img{
       border-radius: 50px;
 
-
+    
 
 }
 
-  div{
-       
-        
-  }
